@@ -1,0 +1,15 @@
+*{padding:2;
+Margin:2;
+color:white;
+}
+
+body {
+  text-align: center;
+  background-image: url(../image/beach_2017.jpg);
+  background-size: cover;
+}
+ul{
+	width: 100px;
+	 margin: 0 auto;
+
+}
