@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC');
+@import url(https://fonts.googleapis.com/css?family=Mukta|Raleway);
+
+*{padding:0 auto;
+  margin:0 auto;
+color:white;
+}
+title {
+  font-size: 50px;
+  }
+
+h1{padding:2px;
+  margin:2px;
+}
+
+body {
+  font-family: 'Spectral SC', serif;
+  font-size: 16px;
+  text-align: center;
+  background-image: url(../image/beach_2017.jpg);
+  background-size: cover;
+}
+ul{
+  font-family: 'Mukta', sans-serif;
+	width: 100px;
+	 margin: 0 auto;
+
+}
